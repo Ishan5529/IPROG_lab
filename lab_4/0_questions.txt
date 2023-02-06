@@ -1,0 +1,30 @@
+1) WAP to print your name 5 times using for loop
+
+2) WAP to print prime numbers from 1 to 100 using
+	a) For loop
+	b) While loop
+	c) Do while loop
+	
+3) WAP to print fibonacci series from 1 to 100 using
+	a) For loop
+	b) While loop
+	c) Do while loop
+	
+4) WAP to find reverse of a 3 digit number using
+	a) While loop
+	b) Do while loop
+	
+5) WAP to print seven colours of rainbow using switch case.
+
+6) WAP to print the numbers from 1 to 10 using
+	a) For loop
+	b) While loop
+	c) Do while loop
+	
+7) WAP to print the following pattern
+	
+	*
+	**
+	***
+	****
+	*****
